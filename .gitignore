@@ -1,4 +1,5 @@
 data/*
+data/lidar/
 !data/MyDataSet/
 !data/MyDataSet/label/
 !data/MyDataSet/label/*.json
