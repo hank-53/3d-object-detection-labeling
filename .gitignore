@@ -1,5 +1,8 @@
-data
 data/*
+!data/MyDataSet/
+!data/MyDataSet/label/
+!data/MyDataSet/label/*.json
+
 data.bk/*
 .vscode
 temp
@@ -8,6 +11,3 @@ temp
 image_temp
 tools/pypcd
 temp*/
-!data/MyDataSet/
-!data/MyDataSet/label/
-!data/MyDataSet/label/*.json
